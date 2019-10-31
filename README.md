@@ -24,3 +24,5 @@ Ubuntu 12+
 [Vultr优惠网](https://www.vultryhw.com/)
 
 [搬瓦工优惠网](https://www.bwgyhw.com/)
+
+[免费账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
